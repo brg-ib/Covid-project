@@ -2,4 +2,4 @@
 
 To run project
 
-`pyhton server.py`
+`python server.py`
