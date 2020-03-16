@@ -1,0 +1,8 @@
+{
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "myclient",
+        "pymongo"
+    ],
+    "python.pythonPath": "C:\\Users\\Ihcen\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+}
