@@ -1,11 +1,11 @@
-## Covid-project
+# Covid-project
 Tracking coronavirus covid-19 near real time 
 ### Screenshot
 ![](https://i.ibb.co/gjRw24w/Screen-demo.png)
 ![](https://i.ibb.co/R3M0nC2/sc2.png)
 
 ### Demo 
-[Here](http://51.178.53.156:5000) (old version)
+[Here](http://51.178.53.156:5000) (old data)
 
 ## Installation
 ### To run project
