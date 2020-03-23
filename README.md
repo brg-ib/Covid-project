@@ -9,10 +9,12 @@ Tracking coronavirus covid-19 near real time
 
 ## Installation
 ### To run project
+Install the dependencies and start the server.
 
-1 - `pip install -r requirements.txt`
-
-2 - `python server.py`
+```sh
+$ pip install -r requirements.txt
+$ python server.py
+```
 
 > Check `http://localhost:5000/`
 
