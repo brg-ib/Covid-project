@@ -4,6 +4,8 @@ Tracking coronavirus covid-19 near real time
 ![](https://i.ibb.co/gjRw24w/Screen-demo.png)
 ![](https://i.ibb.co/R3M0nC2/sc2.png)
 
+### Documentation
+/!\ Lire la documentation dans le dossier Documentation avant tout.
 ### Demo 
 [Here](http://51.178.53.156:5000) (old data)
 
@@ -23,7 +25,7 @@ $ python server.py
 - `Real time data from` : <https://www.data.gouv.fr/fr/datasets/coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne/>
 - `Documentation du projet` : <http://51.178.53.156:5000/notebook>
 - `Deploy on OVH` : <https://ovh.com>
-- `<link>` : <https://github.com>
+
 
 #### Tools
 - Python
